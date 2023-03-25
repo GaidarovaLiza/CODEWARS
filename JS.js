@@ -3,3 +3,5 @@ function joinStrings(string1, string2) {
 }
 
 const grow = x => x.reduce((a, b) => a * b); //Beginner - Reduce but Grow.js
+
+return s.replace(/!/g, ''); //Remove exclamation marks.js 
